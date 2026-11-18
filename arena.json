@@ -1,5 +1,7 @@
 {
-  "title": "CODE SENTINEL",
-  "description": "Architecture-Agnostic Autonomous Engineering Auditor. Find what is wrong. Discover what is missing. Prove the fix works.",
-  "track": "AI triage"
+  "language": "python",
+  "install": "python -m pip install -r requirements.txt",
+  "test": "python -m unittest discover -v",
+  "start": "python app.py",
+  "port": 8000
 }
