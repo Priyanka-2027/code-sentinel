@@ -1,0 +1,24 @@
+{
+  "name": "code-sentinel",
+  "title": "CODE SENTINEL",
+  "version": "1.0.0",
+  "track": "AI triage",
+  "description": "Architecture-Agnostic Autonomous Engineering Auditor. Find what is wrong. Discover what is missing. Prove the fix works.",
+  "repository": "https://github.com/Priyanka-2027/code-sentinel",
+  "entrypoint": "app.main:app",
+  "start_command": "python -m uvicorn app.main:app --host 127.0.0.1 --port 8000",
+  "test_command": "python -m pytest backend/tests/test_audit_engine.py",
+  "tech_stack": {
+    "backend": ["Python 3.11+", "FastAPI", "SQLAlchemy", "SQLite", "Pydantic v2", "pytest"],
+    "frontend": ["React 19", "TypeScript", "TailwindCSS", "Vite", "Lucide React"]
+  },
+  "features": [
+    "Missingness Intelligence",
+    "Deterministic Security Scanning",
+    "Code Slop AST Analysis",
+    "Loose-End Technical Debt Detection",
+    "Risk Correlation Attack Surface Topology",
+    "Proof Before Fix Sandbox Diff Verifier",
+    "Automated Executive Audit Reports"
+  ]
+}
