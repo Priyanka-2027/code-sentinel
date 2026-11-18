@@ -53,6 +53,10 @@ It goes far beyond traditional SAST tools by investigating not just what is **wr
 | 📊 Audit Reports | Standalone HTML + downloadable JSON executive audit artifacts |
 
 ---
+## Output Screenshots:
+<img width="2736" height="1518" alt="image" src="https://github.com/user-attachments/assets/fd7a5427-8453-4648-aa51-947e97b85e86" />
+<img width="2860" height="1516" alt="image" src="https://github.com/user-attachments/assets/5be98bcd-7020-442b-a161-ffd1e2094fdc" />
+
 
 ## 2. Signature Feature: Missingness Intelligence
 
