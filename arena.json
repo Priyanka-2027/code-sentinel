@@ -2,6 +2,6 @@
   "language": "python",
   "install": "python -m pip install -r requirements.txt",
   "test": "python -m pytest backend/tests/test_audit_engine.py",
-  "start": "python server.py",
+  "start": "python app.py",
   "port": 8000
 }
